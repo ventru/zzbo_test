@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore.Tests/PollerAppCore.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore.Tests/PollerAppCore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore.Tests/PollerAppCore.Tests.csproj",
+        "projectName": "PollerAppCore.Tests",
+        "projectPath": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore.Tests/PollerAppCore.Tests.csproj",
+        "packagesPath": "/Users/konstantin/.nuget/packages/",
+        "outputPath": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/konstantin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/PollerAppCore.csproj": {
+                "projectPath": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/PollerAppCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.Reactive.Testing": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/PollerAppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/PollerAppCore.csproj",
+        "projectName": "PollerAppCore",
+        "projectPath": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/PollerAppCore.csproj",
+        "packagesPath": "/Users/konstantin/.nuget/packages/",
+        "outputPath": "/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/konstantin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

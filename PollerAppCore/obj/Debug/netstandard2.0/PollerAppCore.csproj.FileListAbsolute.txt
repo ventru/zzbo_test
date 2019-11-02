@@ -1,0 +1,8 @@
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/bin/Debug/netstandard2.0/PollerAppCore.deps.json
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/bin/Debug/netstandard2.0/PollerAppCore.dll
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/bin/Debug/netstandard2.0/PollerAppCore.pdb
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/Debug/netstandard2.0/PollerAppCore.csprojAssemblyReference.cache
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/Debug/netstandard2.0/PollerAppCore.AssemblyInfoInputs.cache
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/Debug/netstandard2.0/PollerAppCore.AssemblyInfo.cs
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/Debug/netstandard2.0/PollerAppCore.dll
+/Users/konstantin/Desktop/Mopxojlt-candidatepracticaltest-9211c004bf9c/PollerAppCore/obj/Debug/netstandard2.0/PollerAppCore.pdb
