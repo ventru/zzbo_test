@@ -59,7 +59,7 @@ namespace PollerConsoleApp.Data
             }
             catch (Exception e)
             {
-                Console.WriteLine("Error connection or DB is empty");
+                Console.WriteLine(e.StackTrace);
             }
             finally
             {
